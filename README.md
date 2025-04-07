@@ -1,6 +1,10 @@
 <h1 align="center">👋 Olá, eu sou o Gildo Ávila</h1>
 
 <p align="center">
+  <img src="A_pixel_art_2D_digital_illustration_banner_feature.png" alt="Banner do Gildo Ávila" />
+</p>
+
+<p align="center">
   🎮 Estudante de Jogos Digitais | 🧪 QA Tester em formação | 💻 Explorando o mundo da programação
 </p>
 
